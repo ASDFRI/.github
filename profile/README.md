@@ -37,4 +37,4 @@
 
 ---
 
-<p align="center">Made with ❤️ by ASDF STUDIO</p>
+<p align="center">Made with ❤️ by <a href="https://github.com/ASDFRI">ASDF STUDIO</a></p>
